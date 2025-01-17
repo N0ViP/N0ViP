@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on system-level programming projects, open-source contributions
 - 📫 How to reach me
   email: 01.xx.vip@gmail.com.
-  linkedin: linkedin.com/in/yahya-jaafar-1848012b4/
 - ⚡ Fun fact: I'm not unique.
 
 <!---
