@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yahya Jaafar
 - 👀 I’m interested in low-level programming, open-source projects
-- 🌱 I’m currently learning C, Assembly (Asm), Git, and Operating Systems (OS)
+- 🌱 I’m currently learning C, Assembly (Asm), Git, and Linux Operating Systems
 - 💞️ I’m looking to collaborate on system-level programming projects, open-source contributions
 - 📫 How to reach me
   email: 01.xx.vip@gmail.com.
