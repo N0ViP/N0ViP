@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Yahya Jaafar
-- 👀 I’m interested in low-level programming, open-source projects
-- 🌱 I’m currently learning C, Assembly (Asm), Git, and Linux Operating Systems
-- 💞️ I’m looking to collaborate on system-level programming projects, open-source contributions
-- 📫 How to reach me
-  email: 01.xx.vip@gmail.com.
-- ⚡ Fun fact: I'm not unique.
 
 <!---
 N0ViP/N0ViP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
